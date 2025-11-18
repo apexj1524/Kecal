@@ -1,0 +1,48 @@
+{
+glyphname = quotedblright.ss01;
+kernLeft = KO_quotedblright;
+kernRight = KO_quoteright;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+alignment = -1;
+pos = (8,0);
+ref = quoteright.ss01;
+},
+{
+alignment = -1;
+pos = (220,0);
+ref = quoteright.ss01;
+}
+);
+width = 506;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+alignment = -1;
+pos = (4,0);
+ref = quoteright.ss01;
+},
+{
+alignment = -1;
+pos = (157,0);
+ref = quoteright.ss01;
+}
+);
+width = 411;
+}
+);
+metricLeft = quoteright;
+metricRight = quoteright;
+userData = {
+KernOnName = quotedblright;
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

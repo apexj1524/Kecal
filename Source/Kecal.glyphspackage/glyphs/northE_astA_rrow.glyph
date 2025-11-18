@@ -1,0 +1,38 @@
+{
+glyphname = northEastArrow;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+alignment = -1;
+angle = -45;
+pos = (-125,436);
+ref = upArrow;
+}
+);
+width = 740;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+alignment = -1;
+angle = -45;
+pos = (-187,399);
+ref = upArrow;
+}
+);
+width = 654;
+}
+);
+metricLeft = "=60";
+metricRight = "=60";
+unicode = 8599;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

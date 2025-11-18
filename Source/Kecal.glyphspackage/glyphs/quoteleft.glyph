@@ -1,0 +1,56 @@
+{
+glyphname = quoteleft;
+kernLeft = KO_quotedblleft.ss01;
+kernRight = KO_quotedblleft.ss01;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,431,l),
+(220,580,l),
+(83,580,l),
+(141,568,l),
+(141,624,o),
+(158,660,o),
+(222,668,c),
+(222,740,l),
+(108,722,o),
+(56,640,o),
+(56,542,c),
+(56,431,l)
+);
+}
+);
+width = 277;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(178,510,l),
+(178,609,l),
+(89,609,l),
+(119,604,l),
+(119,666,o),
+(138,695,o),
+(180,700,c),
+(180,740,l),
+(107,728,o),
+(74,669,o),
+(74,586,c),
+(74,510,l)
+);
+}
+);
+width = 248;
+}
+);
+metricLeft = "=|quoteright";
+metricRight = "=|quoteright";
+unicode = 8216;
+}

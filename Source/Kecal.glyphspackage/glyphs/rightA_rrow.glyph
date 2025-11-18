@@ -1,0 +1,38 @@
+{
+glyphname = rightArrow;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+alignment = -1;
+angle = -90;
+pos = (48,766);
+ref = upArrow;
+}
+);
+width = 840;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+alignment = -1;
+angle = -90;
+pos = (45,750);
+ref = upArrow;
+}
+);
+width = 818;
+}
+);
+metricLeft = "=60";
+metricRight = "=60";
+unicode = 8594;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

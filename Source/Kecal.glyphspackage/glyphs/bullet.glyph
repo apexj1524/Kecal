@@ -1,0 +1,32 @@
+{
+glyphname = bullet;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+alignment = -1;
+pos = (-22,246);
+ref = period;
+scale = (1.4,1.4);
+}
+);
+width = 342;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+alignment = -1;
+pos = (-37,298);
+ref = period;
+scale = (1.5,1.5);
+}
+);
+width = 297;
+}
+);
+metricLeft = period;
+metricRight = period;
+unicode = 8226;
+}

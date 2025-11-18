@@ -1,0 +1,45 @@
+{
+glyphname = i.ss01;
+kernLeft = KO_j;
+kernRight = KO_j;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (126,0);
+}
+);
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-22,0);
+ref = dotaccentcomb.ss01;
+}
+);
+width = 261;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (157,0);
+}
+);
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (1,0);
+ref = dotaccentcomb.ss01;
+}
+);
+width = 231;
+}
+);
+}

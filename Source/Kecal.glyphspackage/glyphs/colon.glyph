@@ -1,0 +1,39 @@
+{
+glyphname = colon;
+kernLeft = KO_colon.ss01;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+alignment = -1;
+ref = period;
+},
+{
+alignment = -1;
+pos = (0,327);
+ref = period;
+}
+);
+width = 276;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+alignment = -1;
+ref = period;
+},
+{
+alignment = -1;
+pos = (0,380);
+ref = period;
+}
+);
+width = 247;
+}
+);
+metricLeft = period;
+metricRight = period;
+unicode = 58;
+}

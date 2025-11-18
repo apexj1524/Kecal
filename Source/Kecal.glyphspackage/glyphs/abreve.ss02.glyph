@@ -1,0 +1,33 @@
+{
+glyphname = abreve.ss02;
+kernLeft = KO_d;
+kernRight = KO_u;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+ref = a.ss02;
+},
+{
+pos = (69,0);
+ref = brevecomb;
+}
+);
+width = 598;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+ref = a.ss02;
+},
+{
+pos = (68,0);
+ref = brevecomb;
+}
+);
+width = 574;
+}
+);
+}

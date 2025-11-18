@@ -1,0 +1,62 @@
+{
+glyphname = parenleft.case;
+kernLeft = KO_parenleft;
+kernRight = KO_parenleft.case;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(402,-40,l),
+(276,73,o),
+(209,216,o),
+(209,359,cs),
+(209,502,o),
+(273,646,o),
+(402,760,c),
+(259,760,l),
+(130,647,o),
+(68,495,o),
+(68,359,cs),
+(68,224,o),
+(129,72,o),
+(259,-40,c)
+);
+}
+);
+width = 440;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(344,-40,l),
+(218,77,o),
+(150,210,o),
+(150,360,cs),
+(150,508,o),
+(214,642,o),
+(344,760,c),
+(270,760,l),
+(141,643,o),
+(78,501,o),
+(78,360,cs),
+(78,218,o),
+(138,78,o),
+(270,-40,c)
+);
+}
+);
+width = 392;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+R = parenthesis;
+};
+};
+}

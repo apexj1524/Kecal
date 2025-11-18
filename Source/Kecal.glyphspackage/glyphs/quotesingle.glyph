@@ -1,0 +1,67 @@
+{
+glyphname = quotesingle;
+kernLeft = KO_quotedbl;
+kernRight = KO_quotedbl;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(151,425,l),
+(188,554,ls),
+(203,605,o),
+(210,635,o),
+(210,668,cs),
+(210,703,o),
+(187,750,o),
+(129,750,cs),
+(70,750,o),
+(47,703,o),
+(47,668,cs),
+(47,635,o),
+(54,605,o),
+(69,554,cs),
+(106,425,l)
+);
+}
+);
+width = 257;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(128,496,l),
+(152,619,ls),
+(158,652,o),
+(161,677,o),
+(161,696,cs),
+(161,728,o),
+(142,750,o),
+(112,750,cs),
+(83,750,o),
+(64,728,o),
+(64,696,cs),
+(64,677,o),
+(67,652,o),
+(73,619,cs),
+(96,496,l)
+);
+}
+);
+width = 225;
+}
+);
+metricRight = "=|";
+unicode = 39;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

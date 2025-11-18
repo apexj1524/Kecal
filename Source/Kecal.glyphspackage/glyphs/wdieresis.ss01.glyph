@@ -1,0 +1,33 @@
+{
+glyphname = wdieresis.ss01;
+kernLeft = KO_w;
+kernRight = KO_w;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (137,0);
+ref = dieresiscomb.ss01;
+}
+);
+width = 786;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+ref = w;
+},
+{
+pos = (142,0);
+ref = dieresiscomb.ss01;
+}
+);
+width = 735;
+}
+);
+}

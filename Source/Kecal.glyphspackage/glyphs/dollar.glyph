@@ -1,0 +1,69 @@
+{
+glyphname = dollar;
+kernRight = KO_dollar;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(376,696,l),
+(376,830,l),
+(256,830,l),
+(256,696,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(376,-109,l),
+(376,20,l),
+(256,20,l),
+(256,-109,l)
+);
+},
+{
+alignment = -1;
+ref = S;
+}
+);
+width = 612;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(323,696,l),
+(323,830,l),
+(259,830,l),
+(259,696,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(323,-109,l),
+(323,20,l),
+(259,20,l),
+(259,-109,l)
+);
+},
+{
+alignment = -1;
+ref = S;
+}
+);
+width = 567;
+}
+);
+unicode = 36;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
+}

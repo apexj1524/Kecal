@@ -1,0 +1,34 @@
+{
+glyphname = Wacute;
+kernLeft = KO_W;
+kernRight = KO_W;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (349,210);
+ref = acutecomb;
+}
+);
+width = 1005;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+ref = W;
+},
+{
+pos = (361,210);
+ref = acutecomb;
+}
+);
+width = 996;
+}
+);
+unicode = 7810;
+}

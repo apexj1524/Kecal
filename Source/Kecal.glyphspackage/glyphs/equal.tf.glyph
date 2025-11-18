@@ -1,0 +1,59 @@
+{
+glyphname = equal.tf;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(522,418,l),
+(522,524,l),
+(58,524,l),
+(58,418,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(522,218,l),
+(522,324,l),
+(58,324,l),
+(58,218,l)
+);
+}
+);
+width = 580;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(506,438,l),
+(506,504,l),
+(74,504,l),
+(74,438,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(506,238,l),
+(506,304,l),
+(74,304,l),
+(74,238,l)
+);
+}
+);
+width = 580;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

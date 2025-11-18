@@ -1,0 +1,78 @@
+{
+glyphname = I;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (126,0);
+},
+{
+name = ogonek;
+pos = (186,0);
+},
+{
+name = top;
+pos = (126,720);
+},
+{
+name = topleft;
+pos = (7,720);
+}
+);
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(202,0,l),
+(202,720,l),
+(50,720,l),
+(50,0,l)
+);
+}
+);
+width = 252;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (123,0);
+},
+{
+name = ogonek;
+pos = (146,0);
+},
+{
+name = top;
+pos = (123,720);
+},
+{
+name = topleft;
+pos = (20,720);
+}
+);
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(162,0,l),
+(162,720,l),
+(83,720,l),
+(83,0,l)
+);
+}
+);
+width = 245;
+}
+);
+unicode = 73;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

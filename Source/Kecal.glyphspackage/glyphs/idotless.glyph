@@ -1,0 +1,67 @@
+{
+glyphname = idotless;
+kernLeft = KO_idotless;
+kernRight = KO_u;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (131,0);
+},
+{
+name = ogonek;
+pos = (204,0);
+},
+{
+name = top;
+pos = (131,510);
+}
+);
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(204,0,l),
+(204,510,l),
+(57,510,l),
+(57,0,l)
+);
+}
+);
+width = 261;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (116,0);
+},
+{
+name = ogonek;
+pos = (154,0);
+},
+{
+name = top;
+pos = (116,510);
+}
+);
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(154,0,l),
+(154,510,l),
+(77,510,l),
+(77,0,l)
+);
+}
+);
+width = 231;
+}
+);
+metricRight = "=|";
+unicode = 305;
+}

@@ -1,0 +1,35 @@
+{
+glyphname = bullet.case;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+pos = (0,81);
+ref = period;
+scale = (3.56,3.56);
+}
+);
+width = 983;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+pos = (0,123);
+ref = period;
+scale = (5.3,5.3);
+}
+);
+width = 1309;
+}
+);
+metricLeft = period;
+metricRight = period;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

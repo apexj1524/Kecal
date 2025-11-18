@@ -1,0 +1,34 @@
+{
+glyphname = bracketright.case;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+angle = 180;
+pos = (440,720);
+ref = bracketleft.case;
+}
+);
+width = 440;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+angle = 180;
+pos = (392,720);
+ref = bracketleft.case;
+}
+);
+width = 392;
+}
+);
+metricLeft = "=|bracketleft";
+metricRight = "=|bracketleft";
+userData = {
+KernOnSpecialSpacing = {
+R = NoKerning;
+};
+};
+}

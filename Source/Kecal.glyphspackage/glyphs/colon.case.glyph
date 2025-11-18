@@ -1,0 +1,45 @@
+{
+glyphname = colon.case;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+alignment = -1;
+pos = (0,130);
+ref = period;
+},
+{
+alignment = -1;
+pos = (0,457);
+ref = period;
+}
+);
+width = 276;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+alignment = -1;
+pos = (0,132);
+ref = period;
+},
+{
+alignment = -1;
+pos = (0,512);
+ref = period;
+}
+);
+width = 247;
+}
+);
+metricLeft = period;
+metricRight = period;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
+}

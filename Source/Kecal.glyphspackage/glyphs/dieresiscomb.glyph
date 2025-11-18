@@ -1,0 +1,74 @@
+{
+glyphname = dieresiscomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (251,510);
+},
+{
+name = top;
+pos = (251,736);
+}
+);
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+closed = 1;
+nodes = (
+(442,577,l),
+(442,736,l),
+(286,736,l),
+(286,577,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(216,577,l),
+(216,736,l),
+(60,736,l),
+(60,577,l)
+);
+}
+);
+width = 502;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (216,510);
+},
+{
+name = top;
+pos = (216,720);
+}
+);
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(371,628,l),
+(371,720,l),
+(281,720,l),
+(281,628,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(150,628,l),
+(150,720,l),
+(60,720,l),
+(60,628,l)
+);
+}
+);
+width = 431;
+}
+);
+unicode = 776;
+}

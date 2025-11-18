@@ -1,0 +1,40 @@
+{
+glyphname = parenright;
+kernLeft = KO_parenright;
+kernRight = KO_parenright;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (440,643);
+ref = parenleft;
+}
+);
+width = 440;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (392,643);
+ref = parenleft;
+}
+);
+width = 392;
+}
+);
+metricLeft = "=|parenleft";
+metricRight = "=|parenleft";
+unicode = 41;
+userData = {
+KernOnName = parenright;
+KernOnSpecialSpacing = {
+L = parenthesis;
+};
+};
+}

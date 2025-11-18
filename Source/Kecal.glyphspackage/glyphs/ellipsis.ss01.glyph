@@ -1,0 +1,49 @@
+{
+glyphname = ellipsis.ss01;
+kernLeft = KO_ellipsis;
+kernRight = KO_period;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+alignment = -1;
+ref = period.ss01;
+},
+{
+alignment = -1;
+pos = (232,0);
+ref = period.ss01;
+},
+{
+alignment = -1;
+pos = (464,0);
+ref = period.ss01;
+}
+);
+width = 740;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+alignment = -1;
+ref = period.ss01;
+},
+{
+alignment = -1;
+pos = (192,0);
+ref = period.ss01;
+},
+{
+alignment = -1;
+pos = (384,0);
+ref = period.ss01;
+}
+);
+width = 631;
+}
+);
+metricLeft = period.ss01;
+metricRight = period.ss01;
+}

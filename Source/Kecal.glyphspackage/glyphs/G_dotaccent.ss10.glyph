@@ -1,0 +1,34 @@
+{
+export = 0;
+glyphname = Gdotaccent.ss10;
+kernLeft = KO_O;
+kernRight = KO_G.ss07;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+ref = G.ss10;
+},
+{
+pos = (236,210);
+ref = dotaccentcomb;
+}
+);
+width = 724;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+ref = G.ss10;
+},
+{
+pos = (260,210);
+ref = dotaccentcomb;
+}
+);
+width = 707;
+}
+);
+}

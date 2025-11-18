@@ -1,0 +1,34 @@
+{
+glyphname = emacron;
+kernLeft = KO_odieresis;
+kernRight = KO_ecaron;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (48,0);
+ref = macroncomb;
+}
+);
+width = 546;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+ref = e;
+},
+{
+pos = (51,0);
+ref = macroncomb;
+}
+);
+width = 532;
+}
+);
+unicode = 275;
+}

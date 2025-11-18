@@ -1,0 +1,40 @@
+{
+glyphname = iogonek.ss01;
+kernRight = KO_j;
+layers = (
+{
+layerId = "522FD917-7CD6-43A0-922F-6555542696CE";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-22,0);
+ref = dotaccentcomb.ss01;
+},
+{
+pos = (-38,0);
+ref = ogonekcomb;
+}
+);
+width = 261;
+},
+{
+layerId = "AF447C8E-6A86-4BB0-AFAA-0E31F633710F";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (1,0);
+ref = dotaccentcomb.ss01;
+},
+{
+pos = (-58,0);
+ref = ogonekcomb;
+}
+);
+width = 231;
+}
+);
+}
